@@ -1,8 +1,24 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Short Description
+A brief description of your project, explaining its purpose and key features.
 
-Currently, two official plugins are available:
+## Live Links
+- [Live Demo](https://task-vault-25fc8.web.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Dependencies
+This project requires the following dependencies to run:
+- React
+- React Router
+- Firebase Authentication
+- Tailwind CSS
+- Express.js 
+- MongoDB 
+
+## Installation Steps
+Follow these steps to run the project locally:
+
+1. **Clone the Repository**  
+   ```sh
+   git clone https://github.com/Tanim-Ahmmed/Task-Vault-client
