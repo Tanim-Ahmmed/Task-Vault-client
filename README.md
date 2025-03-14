@@ -1,7 +1,5 @@
 # Project Name
-
-## Short Description
-A brief description of your project, explaining its purpose and key features.
+Task Vault
 
 ## Live Links
 - [Live Demo](https://task-vault-25fc8.web.app/)
